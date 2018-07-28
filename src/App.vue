@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <div>lilei</div>
+    <div>zhengyx</div>
     <router-view/>
   </div>
 </template>
