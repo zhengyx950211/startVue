@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <div>lilei</div>
     <router-view/>
   </div>
 </template>
